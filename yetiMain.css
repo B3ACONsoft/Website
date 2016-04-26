@@ -1,0 +1,50 @@
+body {
+    background-color: black; min-width: 700px;
+}
+#header{
+	width: 100%; height: 144px; 
+}
+#SYC{
+	font-size: 40px;
+	color: yellow;
+	display: block;
+	width: 300px;
+	margin: auto;
+}
+#SOC{
+	font-size: 20px;
+	color: white;
+	display: block;
+	width: 300px;
+	margin: auto;
+}
+#Fail{
+	font-size: 20px;
+	color: white;
+	display: block;
+	width: 400px;
+	margin: auto;
+}
+#bBS, #YetiAdmin{
+	font-size: 20px;
+	color: white;
+	display: block;
+	width: 170px;
+	margin: auto;
+}
+.MainTable{
+	width: 600px;
+	border: 2px solid white;
+}
+.MainTable tr td{
+	width: 300px;
+}
+.YetiTable{
+	background-color: #004040;
+	color: yellow;
+	/*margin: 10px 0 10px 0;*/
+}
+.YetiTable > tr{
+		width: 280px;
+}
+ 
